@@ -8,9 +8,11 @@ import "./../global.css";
 export default function MainLayout() {
   return  (
 	<View>
-    <View className="text-red-500">
-      <Text>Hello, World!</Text>
-    </View>
+    <View className="flex-1 justify-center text-center">
+    <Text className="text-green-700">
+      HOme screen styles test ssss
+    </Text>
+   </View>
       <Text>
 		fdgfg
        
